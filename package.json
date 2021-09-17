@@ -1,0 +1,14 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
